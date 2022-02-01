@@ -4,5 +4,4 @@ This file modified locally
 
 This is manually added by Github
 
-
-New Line
+Another line added in feature 2 branch
